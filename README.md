@@ -21,5 +21,6 @@ In the project directory, you can run:
 -------------------------------
 Pictures from @unsplash.com 
 
-Navigation and Theme from eirchobselm
 -------------------------------
+Navigation and Theme from eirchobselm
+
