@@ -18,5 +18,8 @@ In the project directory, you can run:
 - [ ] Integrate a backend atleast for recieving subscription and contact information.
 - [ ] Build a react-native mobile equivalent of the web app
 
-Pictures from Unsplash 
+-------------------------------
+Pictures from @unsplash.com 
+
 Navigation and Theme from eirchobselm
+-------------------------------
