@@ -1,4 +1,5 @@
-# Kebron Gym - a react made front-end web application made to show case new gym service provided by Kebron Guest House in Addis Ababa 
+# Kebron Gym React App 
+A react made front-end web application made to show case new gym service provided by Kebron Guest House in Addis Ababa 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Boilerplate frontend made for Kebron Gym [Kebron Hotel and Spa Trading](http://www.kebronguesthouse.com/)
