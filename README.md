@@ -17,3 +17,6 @@ In the project directory, you can run:
 - [ ] Add more pages that would be linked for the nav and buttons.
 - [ ] Integrate a backend atleast for recieving subscription and contact information.
 - [ ] Build a react-native mobile equivalent of the web app
+
+Pictures from Unsplash 
+Navigation and Theme from eirchobselm
